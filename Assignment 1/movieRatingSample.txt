@@ -1,0 +1,54 @@
+Toy Story (1995)|4.0|1
+Toy Story (1995)|4.0|5
+Toy Story (1995)|4.5|7
+Toy Story (1995)|2.5|15
+Toy Story (1995)|4.5|17
+Toy Story (1995)|3.5|18
+Jumanji (1995)|4.0|6
+Jumanji (1995)|4.0|8
+Jumanji (1995)|3.0|18
+Jumanji (1995)|3.0|19
+Jumanji (1995)|3.0|20
+Jumanji (1995)|3.5|21
+Tom and Huck (1995)|3.0|6
+Tom and Huck (1995)|1.0|20
+Tom and Huck (1995)|5.0|43
+Tom and Huck (1995)|3.0|274
+Tom and Huck (1995)|2.0|372
+Tom and Huck (1995)|3.0|414
+Grumpier Old Men (1995)|4.0|1
+Grumpier Old Men (1995)|5.0|6
+Grumpier Old Men (1995)|3.0|19
+Grumpier Old Men (1995)|3.0|32
+Grumpier Old Men (1995)|4.0|42
+Grumpier Old Men (1995)|5.0|43
+Waiting to Exhale (1995)|3.0|6
+Waiting to Exhale (1995)|3.0|14
+Waiting to Exhale (1995)|3.0|84
+Waiting to Exhale (1995)|3.0|162
+Waiting to Exhale (1995)|1.0|262
+Waiting to Exhale (1995)|2.0|411
+Father of the Bride Part II (1995)|5.0|6
+Father of the Bride Part II (1995)|3.0|31
+Father of the Bride Part II (1995)|5.0|43
+Father of the Bride Part II (1995)|3.0|45
+Father of the Bride Part II (1995)|4.0|58
+Father of the Bride Part II (1995)|4.0|66
+Heat (1995)|4.0|1
+Heat (1995)|4.0|6
+Heat (1995)|5.0|11
+Heat (1995)|4.0|18
+Heat (1995)|4.0|23
+Heat (1995)|4.5|24
+Sudden Death (1995)|4.0|151
+Sudden Death (1995)|3.0|179
+Sudden Death (1995)|3.0|217
+Sudden Death (1995)|2.0|269
+Sudden Death (1995)|3.0|270
+Sudden Death (1995)|5.0|337
+GoldenEye (1995)|3.0|6
+GoldenEye (1995)|2.0|8
+GoldenEye (1995)|3.0|11
+GoldenEye (1995)|2.0|19
+GoldenEye (1995)|5.0|21
+GoldenEye (1995)|3.0|26
