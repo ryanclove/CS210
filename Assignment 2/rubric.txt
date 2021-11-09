@@ -1,0 +1,40 @@
+P1
+1.1 (7 total points): 
+	- (7 pts) all or nothing
+1.2 (10 total points): 
+	- (10 pts) based on percentage of NaN rows filled in correctly
+1.3 (13 total points): 
+	- (13 pts) based on the percentage of NaN cells filled in correctly
+1.4 (10 total points): 
+	- a (2 points) correct keys (pokemon type), all or nothing 
+	- b (1 point) correct keys sorted alphabetically, all or nothing 
+	- c (5 points) correct values (personality), percentage of correct rows (each row is all or nothing) 
+	- d (2 points) correct values sorted correctly, percentage of correct rows (each row is all or nothing)
+1.5 (5 total points) 
+	- (5 pts) all or nothing
+P2
+2.1 (5 total points) 
+	- (5 pts) based on percentage of rows with range filled in correctly
+2.2 (6 total points) 
+	- (6 pts) based on percentage of date cells filled in correctly
+2.3 (7 total points) 
+	- (7 pts) based on percentage of NaN cells filled in correctly
+2.4 (7 total points) 
+	- (7 pts) based on percentage of missing city rows filled in correctly
+2.5 (10 total points) 
+	- (10 pts) based on percentage of missing symptom rows filled in correctly
+
+P3 ('all or nothing' below means per input file, total will be average of the scores per input file)
+3.1.1 (15 total points) 
+	- a (4 pts) remove all characters that are not words or whitespace. all or nothing 
+	- b (4 pts) remove extra white spaces between words. all or nothing 
+	- c (4 pts) remove all website links. all or nothing
+	- d (3 pts) convert all words to lowercase. all or nothing
+3.1.2 (7 total points) 
+	- (7 pts) all or nothing
+3.1.3 (8 total points) 
+	- (8 pts) all or nothing
+3.2 (30 total points) 
+	- a (20 points) if results are all correct tfidf values (without checking order)
+	- b (10 points) if results are sorted correctly (ie. the results are the top 5 most important words)
+
