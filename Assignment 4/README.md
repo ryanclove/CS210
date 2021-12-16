@@ -1,3 +1,3 @@
 # Assignment 4 - SQL Database
 
-Grade: TBD/100
+Grade: 100/100 (100%)
