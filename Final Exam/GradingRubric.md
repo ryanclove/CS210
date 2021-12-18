@@ -14,7 +14,7 @@ Comments:
 2.3 - 17/17 pts  
 
 ## Question 3 - SQL Database Schema (25/30 pts)
-Comments:
+Comments:  
 -5 missing book_publisher table  
 
 ## Question 4 - SQL Database Queries (13.5/31 pts)
