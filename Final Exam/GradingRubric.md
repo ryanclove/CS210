@@ -24,7 +24,7 @@ Comments:
 -4 where statement missing  
 4.3 - 4.5/10 pts  
 Comments:  
--5.5 pts incorrect where statement, incorrect select
+-5.5 pts incorrect where statement, incorrect select  
 4.4 - 1/9 pts  
 Comments: 
 -8 incorrect core, no where clause, no group by statement
