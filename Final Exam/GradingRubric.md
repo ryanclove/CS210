@@ -20,10 +20,10 @@ Comments:
 ## Question 4 - SQL Database Queries (13.5/31 pts)
 4.1 - 5/5 pts  
 4.2 - 3/7 pts  
-Comments:
+Comments:  
 -4 where statement missing  
 4.3 - 4.5/10 pts  
-Comments:
+Comments:  
 -5.5 pts incorrect where statement, incorrect select
 4.4 - 1/9 pts  
 Comments: 
