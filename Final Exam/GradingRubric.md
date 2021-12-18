@@ -3,10 +3,10 @@
 1.2 - 6/6 pts  
 1.3 - 2/8 pts  
 Comments:  
--1 pt to find max of value counts
--2 pts to filter most repeated values (line 3)
--2 pts to get the index values
--1 pt to get the final Python list
+-1 pt to find max of value counts  
+-2 pts to filter most repeated values (line 3)  
+-2 pts to get the index values  
+-1 pt to get the final Python list  
 
 ## Question 2 - Pandas/NumPy (36/36 pts)
 2.1 - 6/6 pts  
