@@ -2,7 +2,7 @@
 1.1 - 4/4 pts  
 1.2 - 6/6 pts  
 1.3 - 2/8 pts  
-Comments:
+Comments:  
 -1 pt to find max of value counts
 -2 pts to filter most repeated values (line 3)
 -2 pts to get the index values
